@@ -1,0 +1,95 @@
+nav {
+  background-color: bisque;
+  height: 70px;
+  padding-top: 20px;
+  text-align: center;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  left: 0px;
+}
+a {
+  text-decoration: none;
+  color: white;
+  margin-left: 20px;
+  font-weight: bold;
+  font-family: "helvetica";
+  font-size: 15px;
+}
+#contact {
+  font-weight: bold;
+  padding-top:70px ;
+  background-color: rgb(227, 227, 227);
+}
+.container {
+  width: 100%;
+  margin-bottom: 200px;
+  left:0px;
+  right: 0px;
+  margin-top: 100px;
+
+}
+.box-one {
+  background-color: gray;
+  text-align: center;
+ color: white;
+  width: 100%;
+  height: 350px;
+  left:0
+
+}
+.box-two {
+
+  background-color: rgb(227, 227, 227);
+  text-align: center;
+  color:black;
+  width: 100%;
+  height: 300px;
+  left:0;
+  
+}
+
+body{
+    background-color: aliceblue;
+}
+img {
+  width: 120px;
+  height: 120px;
+  margin-top:200px;
+  border-radius: 50%;
+
+}
+.profilbloc{ 
+  text-align: center;
+  
+
+}
+.nom{color:rosybrown;
+  font-family: 'Segoe UI'; 
+
+
+}
+body{
+  margin-left: 0;
+}
+.x{
+  width:500px;
+  margin: auto;
+}
+.x1{  width:500px;
+  margin: auto;
+  text-decoration: none;
+
+}
+footer{
+ /*  */
+ background-color: red;
+  text-align: center;
+  color:black;
+  width: 100%;
+  height: 300px;
+
+}
+.skills{
+  list-style: none;
+}
